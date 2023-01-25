@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vladimir, but feel free to call me Vlad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS / React.js
-- 💞️ I’m looking for a job as a Junior Front-end developer / or mentorship as a trainee
 - 📫 How to reach me: https://www.linkedin.com/in/vladimir-gaiduchenok/
 
 
